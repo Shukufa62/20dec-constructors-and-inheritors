@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/bin/Debug/netcoreapp3.1/20dec himework constructors,inheritance
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/bin/Debug/netcoreapp3.1/20dec himework constructors,inheritance.deps.json
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/bin/Debug/netcoreapp3.1/20dec himework constructors,inheritance.runtimeconfig.json
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/bin/Debug/netcoreapp3.1/20dec himework constructors,inheritance.runtimeconfig.dev.json
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/bin/Debug/netcoreapp3.1/20dec himework constructors,inheritance.dll
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/bin/Debug/netcoreapp3.1/20dec himework constructors,inheritance.pdb
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.AssemblyInfo.cs
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.dll
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.pdb
+/Users/shukufa/Projects/20dec himework constructors,inheritance/20dec himework constructors,inheritance/obj/Debug/netcoreapp3.1/20dec himework constructors,inheritance.genruntimeconfig.cache

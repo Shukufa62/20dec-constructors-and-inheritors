@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/bin/Debug/netcoreapp3.1/16 dec homework no errors
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/bin/Debug/netcoreapp3.1/16 dec homework no errors.deps.json
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/bin/Debug/netcoreapp3.1/16 dec homework no errors.runtimeconfig.json
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/bin/Debug/netcoreapp3.1/16 dec homework no errors.runtimeconfig.dev.json
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/bin/Debug/netcoreapp3.1/16 dec homework no errors.dll
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/bin/Debug/netcoreapp3.1/16 dec homework no errors.pdb
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.AssemblyInfo.cs
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.dll
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.pdb
+/Users/shukufa/Projects/16 dec homework no errors/16 dec homework no errors/obj/Debug/netcoreapp3.1/16 dec homework no errors.genruntimeconfig.cache
